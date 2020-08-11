@@ -24,6 +24,12 @@ git status
 set server location file and project aupload
 git remote add origin https://kishan-yadav-digitattva
 
+git to data download all project
+git clone full path
+
+to check server connection or not
+git remote -v
+
 commint to server as local
 git commit -m "command file all comman available"
 
