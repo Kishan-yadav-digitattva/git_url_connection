@@ -1,1 +1,0 @@
-const data ="hii this is a new page index";
