@@ -1,0 +1,1 @@
+const a ="lest shee create a same data file";
