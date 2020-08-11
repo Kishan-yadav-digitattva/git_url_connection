@@ -55,7 +55,6 @@ git checkout <branch_name>
 
 
 data confilg time code
-
 git pull origin master
 git status
 git push origin master
