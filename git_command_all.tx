@@ -5,7 +5,7 @@ git branch -d <local-branch>
 
 remote delete branch 
 
-git push origin --delete <remote branch name    
+git push origin --delete <remote branch name>    
 
 username and userEmail set both
 git config --global user.name <name>
@@ -28,24 +28,24 @@ commint to server as local
 git commit -m "command file all comman available"
 
 server file upload
-git push origin branch_name
+git push origin <branch_name>
 
 cretae a branch
 git branch branch_name 
-git checkout -b branch_name
+git checkout -b <branch_name>
 
 server send file master push
 git push origin master
 git oush -u origin master
 
 server push file branch
-git push origin branch_name
+git push origin <branch_name>
 
 check branch
 git branch
 
 chenage branch
-git checkout branch_name
+git checkout <branch_name>
 
 
 
